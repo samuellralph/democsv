@@ -9,7 +9,7 @@ Exporta as informações do CSV para um local
 Interface de interação utilizando JAVA SWING para importar e exportar o arquivo.
 
 # CSV
-Open CSV para leitura do arquivo.
+Bibliotecas OpenCSV para leitura do arquivo.
 Bibliotecas JAVA para exportar.
 
 # Requisitos para executar a aplicação
