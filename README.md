@@ -6,7 +6,7 @@ Adiciona uma nova coluna com status de sucesso para cada dado aos dados do CSV
 Exporta as informações do CSV para um local
 
 # GUI
-Interface de interação utilizando SWING para importar e exportar o arquivo.
+Interface de interação utilizando JAVA SWING para importar e exportar o arquivo.
 
 # CSV
 Open CSV para leitura do arquivo.
